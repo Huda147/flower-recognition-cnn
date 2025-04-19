@@ -27,6 +27,7 @@ This project focuses on image classification of flower species using a CNN-based
 - The dataset should be placed in the `Datasets/Training_set` folder.
 - Images are resized to **64x64 pixels** for training.
 - Flower categories are inferred from the folder names.
+- As size of dataset was too large to upload we have kept it on local device, you can apply the model on similar datasets found online.
 
 > ⚠️ Ensure your dataset follows the structure: `Datasets/Training_set/<class_name>/<images>`
 
